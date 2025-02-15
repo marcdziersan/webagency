@@ -13,7 +13,7 @@ Dies ist eine moderne und professionelle Landingpage für eine Webagentur. Sie w
 
 ## Projektbeschreibung
 Diese Landingpage dient als Vorstellung einer Webagentur und ihrer Dienstleistungen. Sie ist responsiv gestaltet und optimiert für eine gute Benutzererfahrung sowie für Suchmaschinen (SEO).
-<a href="https://test.twisted-style.de/landingpage" target="_blank">Zur Demo: https://test.twisted-style.de/landingpage</a>
+<a href="https://test.twisted-style.de/webagency" target="_blank">Zur Demo: https://test.twisted-style.de/webagency</a>
 
 ## Features
 - **Hero-Slider** mit automatischem Wechsel
