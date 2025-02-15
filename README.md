@@ -27,7 +27,7 @@ Diese Landingpage dient als Vorstellung einer Webagentur und ihrer Dienstleistun
 ## Installation
 1. Repository klonen oder Dateien herunterladen:
    ```sh
-   git clone https://github.com/marcdziersan/property.git
+   git clone https://github.com/marcdziersan/webagency.git
    ```
 2. Stelle sicher, dass ein lokaler Server läuft (z. B. mit Live Server in VS Code oder XAMPP).
 3. Öffne `index.html` in einem Browser.
